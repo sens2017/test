@@ -2,6 +2,6 @@ package heee;
 
 public class abs {
 
-	//asdasdsadasdasdsa上官是傻逼
+	//上官我儿
 	
 }
