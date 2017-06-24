@@ -2,5 +2,6 @@ package heee;
 
 public class abs {
 
-	/asdasdsadasdasdsa
+	//asdasdsadasdasdsa
+	
 }
